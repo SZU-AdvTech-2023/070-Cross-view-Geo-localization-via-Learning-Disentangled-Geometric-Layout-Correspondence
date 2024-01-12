@@ -1,0 +1,9 @@
+@inproceedings{REPO070,
+    author = "Zhang, Xiaohan and Li, Xingyu and Sultani, Waqas and Zhou, Yi and Wshah, Safwan",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "3",
+    pages = "3480--3488",
+    title = "{Cross-view Geo-localization via Learning Disentangled Geometric Layout Correspondence}",
+    volume = "37",
+    year = "2023"
+}
